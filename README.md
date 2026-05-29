@@ -41,7 +41,7 @@ Công nghệ sử dụng:
 Link ứng dụng Bubble:
 
 ```text
-https://truonggiangdinh1303.bubbleapps.io/version-test/?debug_mode=true
+https://truonggiangdinh1303.bubbleapps.io/version-test/
 ```
 
 Link backend API online:
