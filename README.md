@@ -41,25 +41,25 @@ Công nghệ sử dụng:
 Link ứng dụng Bubble:
 
 ```text
-[Điền link Bubble app live tại đây]
+https://truonggiangdinh1303.bubbleapps.io/version-test/?debug_mode=true
 ```
 
 Link backend API online:
 
 ```text
-[Điền link backend Render tại đây]
+https://expense-management-backend-lqzl.onrender.com/
 ```
 
 Link kiểm tra backend:
 
 ```text
-[Điền link backend]/api/health
+https://expense-management-backend-lqzl.onrender.com/api/health
 ```
 
 Ví dụ:
 
-```text
-https://expense-backend.onrender.com/api/health
+```Link GitHub backend:
+https://github.com/giangdinh1303/expense-management-backend
 ```
 
 Nếu backend hoạt động bình thường, trình duyệt sẽ hiển thị kết quả dạng:
@@ -76,8 +76,8 @@ Nếu backend hoạt động bình thường, trình duyệt sẽ hiển thị k
 Người kiểm tra có thể sử dụng tài khoản demo sau:
 
 ```text
-Email: [Điền email demo]
-Password: [Điền mật khẩu demo]
+Email: test1@gmail.com
+Password: 12345678
 ```
 
 ### 2.3. Các bước kiểm tra nhanh
